@@ -1,2 +1,3 @@
-web: cd api && gunicorn app:app
+gunicorn app:app
+
 
